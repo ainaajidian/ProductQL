@@ -1,0 +1,12 @@
+{
+  "projects": [
+    {
+      "schema": [
+        "bin/Debug/net5.0/schema.graphql"
+      ],
+      "documents": [
+        "bin/Debug/net5.0/**/*.graphql"
+      ]
+    }
+  ]
+}

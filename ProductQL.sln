@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductQL", "ProductQL.csproj", "{B43326B7-C05C-4F1E-87A5-7842AC0C587D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B43326B7-C05C-4F1E-87A5-7842AC0C587D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B43326B7-C05C-4F1E-87A5-7842AC0C587D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B43326B7-C05C-4F1E-87A5-7842AC0C587D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B43326B7-C05C-4F1E-87A5-7842AC0C587D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24A56E9C-DD5F-46E3-9A98-93D3827BD9E6}
+	EndGlobalSection
+EndGlobal
